@@ -12,7 +12,7 @@ Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, 
 
 
 # Projeto (API) 
-Projeto de logística que tem como foco a solução do problema dado pelo cliente.Assim conseguimos ter uma melhor compreensão sobre o asunto para podermos dad andamento ao projeto.
+Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas emtre estados e indicadores de risco em todo o território nacional.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |    
@@ -24,11 +24,12 @@ Projeto de logística que tem como foco a solução do problema dado pelo client
 |  Team Member  | Milena Profeta |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milena/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/milena)     |
 
 # Objetivo do Projeto
- Este projeto tem como objetivo analisar acidentes de trânsito em cidades brasileiras com população acima de 100 mil habitantes, com foco nos erros logísticos que contribuem para esses eventos.  
-A pesquisa busca levantar dados, identificar padrões e propor soluções que melhorem a mobilidade urbana e reduzam a ocorrência de acidentes.
+ Este projeto tem como objetivo analisar sinistros de trânsito em cidades brasileiras com população acima de 100 mil habitantes, com direcionamento das análises à uma ferramenta de avaliação de risco real, permitindo que insigths relacionados à desisões de investimento em infraestrutura sejam priorizadas.
+A pesquisa busca levantar dados da PRF (Polícia Rodoviária Ferderal) e do RENAEST (Registro Nacional de Acidentes e Estatísticas de Trâncito), afim de construir um dashboard, focado em unir esses dados e isolar a interferência da infraestrutura viária.
 
-* Ajudandondo a desenvolver o trabalho em equipe.
-
+* Análise de dados;
+* Pesquisas referentes à acidentes de trânsito
+* Pesquisas sobre a infraestrutura viária nacional
 * Ter uma melhor compreensão sobre as tecnologias utilizadas no trabalho.
 
 
@@ -39,7 +40,7 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 * Jira Software
 * Power BI
 * Microsoft Excel
-* Slack
+* Whatsapp
 * Python (Colab)
   
 
@@ -99,7 +100,7 @@ projeto.
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 03/10/2025 | Entregue   | [MVP](MVP/sp1.md)  |
+| 01                | 03/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
 | 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
