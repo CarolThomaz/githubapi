@@ -1,5 +1,4 @@
-# Aprendizado por Projeto Integrado (API)
-
+# Aprendizado por Projeto Integrado (API) -NEXUS LOGISTICS
 
 Projeto baseado na metodologia Ágil Scrum buscando desenvolver a proatividade, trabalho em equipe e entrega de resultados.
 
@@ -23,13 +22,12 @@ Projeto de logística que tem como foco a solução do problema dado pelo client
 |  Team Member  | Lucas Barsaglini |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
 
 # Objetivo do Projeto
+
 Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, com o objetivo de promover análises comparativas entre estados e indicadores de riscos, relacionados à geometria das vias, em que a infraestrutura viária, é a causa principal dos sinistros de trânsito em todo o território nacional, referentes aos anos de 2018 a 2024. em municípios com mais 100.000 habitantes.
 
 * Mapeamento de Pontos Críticos - identificar e mapear rodovias e trechos urbanos, federais e estaduais com maior concentração de acidentes, lesões e óbitos;
 * Dados utilizados - PRF (Polícia Rodoviária Federal) e RENAEST (Registro Nacional de Sinistros e Estatísticas de Trânsito);
 * Propor direcionamento de recursos de fiscalização, engenharia de tráfego e campanhas de conscientização para áreas de maior risco.
-
-
 
 
 ## Tecnologias Utilizadas
@@ -42,21 +40,7 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 * WhatsApp
 
 
-
-# Product Backlog
-
-| Rank | Prioridade | User Story                                                                                                |   Estimativa    | Sprint                                                                                                       
-|------|------------|------------|-----------------|---------------------------------------------------------------------------------------------------------------
-| 1    | Alta       |O projeto tem como foco compreender de que forma a geometria da via influencia diretamente nos sinistros de trânsito, considerando os principais fatores relacionados à infraestrutura viária. | 4              | 1
-| 2    | Alta       |Busca-se identificar acidentes que apresentaram interferência direta das condições da via, analisando elementos como curvas, pavimentação, acostamentos e demais aspectos estruturais.                          | 6             | 2
-| 3    | Alta       |O estudo tem como propósito avaliar a presença e a eficiência de elementos de segurança, como guard rails, canteiros centrais e acostamentos, na prevenção de sinistros de trânsito.                  | 5              | 3
-| 4    | Alta       |O projeto será finalizado com a apresentação de insights conclusivos sobre como a geometria das vias e as condições da infraestrutura viária impactam diretamente a ocorrência de acidentes.                 | 5             | 4
-
-
-
-   
-
-             
+# Product Backlog  
 
  ## SPRINT 1
 
@@ -92,22 +76,13 @@ Desenvolvimento de um dashboard interativo com dados agregados de segurança vi�
 * Análises, estudos para aprimorar os conhecimentos sobre a sinistralidade viária brasileira.
 
 
-
-
- ## SPRINT 4
-
-*Propor melhorias;
-
-*Promover a conscientização sobre os sinistros de trânsito na Feira de Soluções.
-
-
   
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Entregue   | [MVP](MVP/sp1.md)  |
-| 02                | 31/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 31/10/2025 | Entregue | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
