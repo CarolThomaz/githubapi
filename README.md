@@ -1,3 +1,5 @@
+![Capa do Projeto](images/projeto integrador.jpg)
+
 # Aprendizado por Projeto Integrado (API)
 
 
