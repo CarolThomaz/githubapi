@@ -17,30 +17,29 @@ Projeto de logística que tem como foco a solução do problema dado pelo client
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |    
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Milena Profeta Ribeiro de Oliveira |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milena-profeta-de-oliveira-3a710220a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MilenaProfeta)              |
-| Scrum Master  | Carol Beatriz Souza Thomaz |            [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-thomaz-33905718a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cah)
-| Team Member   | Leonardo Moreira Fernandes |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-8a28252b3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo695)        |
+| Product Owner | Milena Profeta |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/milena-profeta-de-oliveira-3a710220a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MilenaProfeta)              |
+| Scrum Master  | Caroline Thomaz |            [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-thomaz-33905718a/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/cah)
+| Team Member   | Leonardo Fernandes |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-fernandes-8a28252b3/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leo695)        |
 |  Team Member  | Lucas Barsaglini |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-barsaglini-71774b188/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Barsaglini99)   |
 
 # Objetivo do Projeto
- Este projeto tem como objetivo analisar acidentes de trânsito em cidades brasileiras com população acima de 100 mil habitantes, com foco nos erros logísticos que contribuem para esses eventos.  
-A pesquisa busca levantar dados, identificar padrões e propor soluções que melhorem a mobilidade urbana e reduzam a ocorrência de acidentes.
+Desenvolvimento de um dashboard interativo com dados agregados de segurança viária, com o objetivo de promover análises comparativas entre estados e indicadores de riscos, relacionados à geometria das vias, em que a infraestrutura viária, é a causa principal dos sinistros de trânsito em todo o território nacional, referentes aos anos de 2018 a 2024. em municípios com mais 100.000 habitantes.
 
-* Ajudando a desenvolver o trabalho em equipe.
-
-* Ter uma melhor compreensão sobre as tecnologias utilizadas no trabalho.
+* Mapeamento de Pontos Críticos - identificar e mapear rodovias e trechos urbanos, federais e estaduais com maior concentração de acidentes, lesões e óbitos;
+* Dados utilizados - PRF (Polícia Rodoviária Federal) e RENAEST (Registro Nacional de Sinistros e Estatísticas de Trânsito);
+* Propor direcionamento de recursos de fiscalização, engenharia de tráfego e campanhas de conscientização para áreas de maior risco.
 
 
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
-* Microsoft Excel
-* Whatsapp 
-* Python (Colab)
-  
+* Pacote Office
+* Google Colab (Python)
+* Google Drive
+* Canva
+* WhatsApp
 
 
 
@@ -61,35 +60,45 @@ A pesquisa busca levantar dados, identificar padrões e propor soluções que me
 
  ## SPRINT 1
 
-* Como cliente quero que tenha um protótipo inicial com dados filtrados do produto.
+* Divisão das funções e exigências da equipe;
+
+* Elaboração de histórias de usuários;
  
-* Como especialista em logística, quero uma base de dados nos anos de 2024/2025.
+* Busca e análises das bases de dados referentes aos sinistros de trânsito de abrangência nacional, em sites/páginas oficiais do Governo Federal;
+  
+* Tratamento e unificação das bases de dados da PRF (Polícia Rodoviária Federal) e RENAEST (Registro Nacional de Sinistros e Estatísticas de Trânsito, dos anos de 2018 a 2024, através do Google Colab (Objetivo: unificação dos anos; seleção de colunas de interesse; remoção de municípios com menos de 100.000 habitantes e dados inconclusivos; novo arquivo CSV).
 
-* Como especialista em logística quero pegar somente dados que sejam relevantes.
-                                                                   
-
-                                     
+                                                                                         
 
 ## SPRINT 2                                                                
 
-* Como cliente quero que o Dashboard fique filtrado com os acidentes relacionados à infraestrutura e as cidades mais afetadas.
-
-* Como especialista em logística, quero  identificar critérios que podemos utilizar ferramentas para facilitar 
-projeto.                                                                                                                                                 
+* Desenvolvimento do dashboard direcionado à geometria da via;
+ 
+* Promover insights por meio de visualizadores gráficos, filtros e mapas - apresentando pontos críticos e os índices de sinistralidade nas rodovias brasileiras;
+  
+* Aplicação de melhorias discutidas no SPRINT 1
+  
+* Elaboração do relatório técnico;
+  
+* Slide de apresentação;
+                                                                                                                                               
 
 ## SPRINT 3 
                           
-* Como cliente quero que o Dashboard já tenha filtrado as cidades e os acidentes.
+* Aplicação de melhorias discutidas no SPRINT 2;
+  
+* Layout do painel de controle;
+  
+* Análises, estudos para aprimorar os conhecimentos sobre a sinistralidade viária brasileira.
 
-* Como especialista em logística quero fazer um Dashboard bem feito e intuitivo pare que o cliente tenha uma melhor compreensão.
 
 
 
  ## SPRINT 4
 
-* Como cliente quero que o Dashboard esteja completando com todas as informações em dia que forem utilizadas nas sprints anteriores.
+*Propor melhorias;
 
-* Como especialista em logística, quero receber um Dashboard com fácil visualização e que todos possam compreender oque fizemos nas sprints.
+*Promover a conscientização sobre os sinistros de trânsito na Feira de Soluções.
 
 
   
@@ -98,7 +107,7 @@ projeto.
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 01                | 03/10/2025 | Entregue   | [MVP](MVP/sp1.md)  |
-| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 31/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
